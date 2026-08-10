@@ -1,2 +1,3 @@
 data/*.csv
 .venv
+scratch_bench.py
